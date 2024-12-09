@@ -4,16 +4,16 @@
 
 ## Dělení statků
 
-- [Volné](#Volné statky)
-- [Ekonomické](#Ekonomické statky)
+- [Volné](#volné-statky)
+- [Ekonomické](#ekonomické-statky)
 
 Podle účelu
 
-- [Spotřební](#Spotřební)
+- [Spotřební](#spotřební)
 
-- [Kapitálové](#Kapitálové)
+- [Kapitálové](#kapitálové)
 
-- [Veřejné](#Veřejné)
+- [Veřejné](#veřejné)
 
 Další dělení
 
