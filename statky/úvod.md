@@ -1,4 +1,4 @@
-[zpět](../README.md)
+[zpět](úvod.md)
 
 # Statky
 
