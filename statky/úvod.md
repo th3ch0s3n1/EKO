@@ -8,4 +8,4 @@
 
 ## Obsah:
 
-- [Dělení statků](statky/dělení_statků.md)
+- [Dělení statků](dělení_statků.md)
