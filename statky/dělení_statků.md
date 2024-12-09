@@ -1,3 +1,5 @@
+[zpět](../README.md)
+
 # Statky
 
 ## Dělení statků
