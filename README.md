@@ -10,5 +10,6 @@
   - [Cena](hlavní_činnost/cena.md)
   - [Výnosy](hlavní_činnost/výnosy.md)
   - [Výsledek hospodaření](hlavní_činnost/výsledek_hospodaření.md)
+  - [Výrobní činnost](hlavní_činnost/výrobní_činnost.md)
 
 
