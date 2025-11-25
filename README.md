@@ -7,4 +7,8 @@
 - [Potřeby](lidské_potřeby/úvod.md)
 - [Statky](statky/úvod.md)
 - [Hlavní činnost](hlavní_činnost/úvod.md)
+  - [Cena](hlavní_činnost/cena.md)
+  - [Výnosy](hlavní_činnost/výnosy.md)
+  - [Výsledek hospodaření](hlavní_činnost/výsledek_hospodaření.md)
+
 
