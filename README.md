@@ -6,4 +6,5 @@
 
 - [Potřeby](lidské_potřeby/úvod.md)
 - [Statky](statky/úvod.md)
+- [Hlavní činnost](hlavni_cinnost/úvod.md)
 
