@@ -134,3 +134,21 @@ má za úkol zajistit, aby výroba probíhala plynule a aby byly minimalizovány
 V **malých firmách** se obvykle **plánování a řízení výroby prolíná.** Provádí je podle zkušenosti - mistr, majitel apod.
 
 # Péče o jakost
+
+jakost výrobku ovlivňuje veškerá činnost podniku
+
+- konstrukce výrobku
+- použité materiály
+- pečlivost dělníků
+- způsob řízení podniku
+- skladování
+- způsob prodeje
+
+Kvalita je vymezena:
+
+- požadavky spotřebitelů
+  - je v zájmu podnikatele, aby spotřebitelé jeho výrobky považovali za kvalitní
+- požadavky státu na ochranu spotřebitele
+  - bezpečnost výrobku
+  - technické požadavky
+  - správné označení
