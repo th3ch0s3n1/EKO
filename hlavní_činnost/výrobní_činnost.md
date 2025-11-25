@@ -152,3 +152,45 @@ Kvalita je vymezena:
   - bezpečnost výrobku
   - technické požadavky
   - správné označení
+
+## Řízení kvality systémem ISO
+
+V Evropě se uplatňuje systém norem
+
+Podniky se nejčastěji snaží získat mezinárodně uznávaný certifikát, že splňují normy ISO řady 9000
+
+Jsou zaměřeny i na servis, způsob prodeje, řízení atd.
+
+## TQM - Total Quality Management
+
+Představuje způsob řízení kvality ve firmě, který obvykle obsahuje tyto složky:
+
+- a) leadership
+  - úloha vedoucích
+- b) orientace na zákazníka
+  - plnit požadavky zákazníka a činit jej spokojeným
+- c) orientace na trvalé zlepšování
+  - individuální "zlepšovací návrhy" podávané jednotlivci
+- d) procesní přístup
+  - činnost firmy je rozložena mezi jednotlivé části firmy
+    - oddělení
+    - kanceláře
+  - výsledek práce jedné části se předává druhé části
+
+# Úspory z rozsahu a produktivita práce
+
+Úspory z rozsahu znamenají pokles nákladů na jednotku produkce
+
+Klesají jak variabilní, tak i fixní náklady
+
+Důležitá role => produktivita práce
+
+Čím vyšší je produktivita práce, tím nižší bývají náklady na jednotku
+
+Faktory, které ovlivňují produktivitu práce:
+
+- kvalifikace a schopnosti lidí
+- moderní technika
+- moderní technologie a organizace práce
+
+**Úspory z rozsahu** - snížení nákladů na jednotku vyvolané vyšším objemem produkce
