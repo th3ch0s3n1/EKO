@@ -14,4 +14,5 @@
   - [Služby](hlavní_činnost/služby.md)
   - [Velkoobchod a maloobchod](hlavní_činnost/velkoobchod_maloobchod.md)
     - [Kalkulace ceny v obchodě](hlavní_činnost/velkoobchod_maloobchod.md#kalkulace-ceny-v-obchodě)
+- [Marketing](marketing/úvod.md)
 
