@@ -15,4 +15,13 @@
   - [Velkoobchod a maloobchod](hlavní_činnost/velkoobchod_maloobchod.md)
     - [Kalkulace ceny v obchodě](hlavní_činnost/velkoobchod_maloobchod.md#kalkulace-ceny-v-obchodě)
 - [Marketing](marketing/úvod.md)
+- [Prodejní činnost](prodejní_činnost/průběh_prodejní_činnosti.md)
+  - [Plánování prodeje](prodejní_činnost/průběh_prodejní_činnosti.md#plánování-prodeje)
+  - [Průběh obchodního případu](prodejní_činnost/průběh_obchodního_případu.md#průběh-obchodního-případu)
+  - [Příprava obchodního případu při prodeji do zahraničí](prodejní_činnost/průběh_obchodního_případu.md#příprava-obchodního-případu-při-prodeji-do-zahraničí)
+    - [Průzkum trhu](prodejní_činnost/průběh_obchodního_případu.md#průzkum-trhu)
+    - [Produkt](prodejní_činnost/průběh_obchodního_případu.md#produkt)
+    - [Cena](prodejní_činnost/průběh_obchodního_případu.md#cena)
+    - [Distribuce](prodejní_činnost/průběh_obchodního_případu.md#distribuce)
+    - [Propagace](prodejní_činnost/průběh_obchodního_případu.md#propagace)
 
