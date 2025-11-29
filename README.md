@@ -25,3 +25,7 @@
     - [Distribuce](prodejní_činnost/průběh_obchodního_případu.md#distribuce)
     - [Propagace](prodejní_činnost/průběh_obchodního_případu.md#propagace)
 
+
+## K vytisknutí
+
+- [Flashcards](ekologie_flashcards.pdf)
